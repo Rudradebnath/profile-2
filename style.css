@@ -1,0 +1,69 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0%;
+}
+#welcome{
+    padding-left: 70px;
+}
+#to{
+    padding-left: 100px;
+}
+#rudra{
+    padding-left: 47px;
+}
+span{
+    color: aqua;
+}
+section{
+    display: flex;
+    margin-bottom: 10%;
+}
+h3{
+    color: crimson;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+img{
+    width: 50%;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(blue black);
+    color: darkgray;
+    font-weight: 800;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+p{
+    text-align: justify;
+}
+.first-class{
+background-image: url(top-banner3.png);
+background-repeat: no-repeat;
+}
+.second-class{
+    background-image: url(exp-bg1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.paragraph-two{
+    padding-right: 30%;
+}
+.skill{
+    padding-left: 45%;
+    color: darksalmon;
+}
+.experience-item{
+    box-shadow: 10px 10px 10px rgb(136, 109, 109);
+    width: 40%;
+    margin: 5% 5%;
+    padding-left: 5%;
+    border-radius: 5%;
+    border-left: 10px solid deeppink;
+}
+footer p{
+    color: firebrick;
+    text-align: center;
+}
